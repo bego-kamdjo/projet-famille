@@ -1,0 +1,163 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:'poppins',sans-serif ;
+}
+.header{
+height: 100vh;
+    
+    
+}
+
+.flex-container{
+
+    display: flex;
+    justify-content: center;
+    margin: 30px;
+    justify-content: space-around;
+    
+    
+    
+ 
+}
+a{
+    padding: 10px;
+}
+.elements{
+    
+    text-align: justify;
+    
+}
+.button3{
+    font-weight: 200;
+    background-color: rgb(226, 43, 150);
+     width: 7%;
+     text-align: center;
+}
+.button4{
+    color: white;
+    padding: 11%;
+    
+    
+
+}
+
+
+
+
+h5{
+    color: rgb(241, 230, 230);
+    float: right;
+}
+.hreft{
+    justify-content: center;
+
+}
+.img1{
+    display: flex;
+    justify-content: end;
+    height: 500px;
+    
+    
+    
+    
+}
+.button{
+    display: flex;
+    gap: 9px;
+    font-weight: 200;
+    font-size: 10px;
+    text-align: center;
+    margin: 30px;
+    font-family: sans-serif;
+    
+
+    
+}
+
+.button1{
+    color: white;
+    background-color: rgb(238, 63, 180);
+    width: 20%;
+    padding: 5px;
+    border-radius: 3px;
+    
+    
+}
+.button2{   
+    
+    background-color: white;
+   color: rgb(238, 57, 148);
+    border:1px rgb(226, 43, 134) solid;
+    width: 20%;
+    height: 10%;
+    padding: 5px;
+    border-radius: 3px;
+
+    
+    
+
+}
+.social-icons{
+    display: flex;
+    gap: 20px;
+    
+}
+.social-info{
+
+    justify-content: center;
+    display: flex;
+    text-align: justify;
+    gap: 40px;
+    
+
+}
+.textp{
+    text-align: center;
+    margin: 50px;
+}
+.grid-container{
+    display: grid;
+    justify-content: center;
+    grid-template-columns: auto auto auto auto;
+    gap: 50px 100px;
+    margin: 50px;
+    
+
+}
+.flex-container{
+    justify-content: center;
+    gap: 20px;
+    justify-content: space-around;
+}
+.p1{
+    text-align: center;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    margin: 40px;
+}
+.fleur img{
+    height: 400px;
+}
+.p4{
+    margin:14px;
+    
+}
+
+.Read-More{
+    color: rgb(226, 43, 128);
+}
+
+.flex-container3{
+    justify-content: center;
+    display: flex;
+    gap: 40px;
+    margin: 30px;
+}
+.t{
+    text-align: center;
+}
+
